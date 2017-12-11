@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  color: white;
+}
+
+.container {
+  margin: 0;
+  width: 100vw;
+}
+
+header {
+  position: relative;
+}
+
+.parrafo {
+  margin:0;
+  padding: 0;
+  background-color: #2e2e2a;
+  line-height: 40px;
+}
+
+ul {
+  list-style: none;
+  margin:0;
+  padding: 0;
+  background-color: #2e2e2a;
+  line-height: 40px;
+}
+
+li {
+  width: 100px;
+  display: inline-block;
+  text-align: right;
+}
+
+.img1 {
+  background-color: grey;
+  height: 300px;
+}
+
+.title {
+  font-size: 90px;
+  text-align: center;
+}
+
+.number {
+  text-align: center;
+  font-size: 130px;
+}
+ 
+.txt {
+  width: 100vw;
+}
